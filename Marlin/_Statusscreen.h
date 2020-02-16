@@ -1,1 +1,0 @@
-../config/examples/Creality/Ender-3/_Statusscreen.h

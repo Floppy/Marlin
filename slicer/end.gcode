@@ -11,3 +11,4 @@ M104 S0 ;Turn-off hotend
 M140 S0 ;Turn-off bed
 
 M84 X Y E ;Disable all steppers but Z
+G92 E0 ;Reset Extruder

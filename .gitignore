@@ -121,7 +121,6 @@ tags
 .piolibdeps
 .clang_complete
 .gcc-flags.json
-/lib/
 
 # Workaround for Deviot+platformio quirks
 Marlin/lib
